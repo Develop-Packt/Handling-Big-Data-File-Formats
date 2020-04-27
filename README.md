@@ -1,2 +1,6 @@
-# Handling-Big-Data-File-Formats
-You will look at the different formats for storing, transmitting and organizing very large collections of data. You will learn how to choose the right data formats as well as look at compression.
+# Handling Big Data File Formats
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Handling-Big-Data-File-Formats.svg)](https://github.com/Develop-Packt/Handling-Big-Data-File-Formats/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Handling-Big-Data-File-Formats.svg)](https://github.com/Develop-Packt/Handling-Big-Data-File-Formats/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Handling-Big-Data-File-Formats.svg)](https://github.com/Develop-Packt/Handling-Big-Data-File-Formats/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Handling-Big-Data-File-Formats/pulls)
+
